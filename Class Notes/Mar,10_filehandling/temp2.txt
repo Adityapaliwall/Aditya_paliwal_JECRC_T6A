@@ -1,0 +1,2 @@
+{"full_name": "Aditya", "user_id": 123456, "password": "******"}
+{"full_name": "Aditya", "user_id": 123456, "password": "******"}
